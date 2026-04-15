@@ -1,0 +1,28 @@
+{
+  "type": "object",
+  "properties": {
+    "x": {
+      "type": "integer"
+    },
+    "y": {
+      "type": "integer"
+    },
+    "r": {
+      "type": "integer"
+    },
+    "g": {
+      "type": "integer"
+    },
+    "b": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "x",
+    "y",
+    "r",
+    "g",
+    "b"
+  ],
+  "additionalProperties": false
+}
